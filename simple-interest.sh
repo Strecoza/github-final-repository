@@ -5,7 +5,7 @@
    
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <TatianaPri>
+   # <Strecoza>
    # Input:
    # p, principal amount
    # t, time period in years
